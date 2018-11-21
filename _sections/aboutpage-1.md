@@ -27,7 +27,7 @@ cta:
   subtext: null
 
 ---
-<p>sdsdfsdsdfsfd Welcome to your <a href="https://bowtie.io" target="_self">BowTie</a>  site. The BowTie frontend makes it easy to build sites, blogs, or static apps using hosted user authentication and Jekyll. This page is generated from <code>about.md</code> in your root directory. Please install the <a href="https://github.com/bowtie-io/bowtie-iobowtie-io" target="_self">gem</a> to develop locally.<br>​</p>
+<p>Welcome to your <a href="https://bowtie.io" target="_self">BowTie</a>  site. The BowTie frontend makes it easy to build sites, blogs, or static apps using hosted user authentication and Jekyll. This page is generated from <code>about.md</code> in your root directory. Please install the <a href="https://github.com/bowtie-io/bowtie-iobowtie-io" target="_self">gem</a> to develop locally.<br>​</p>
 <p>For more information, read the our <em>Getting Started</em> series:<br>​</p>
 <p><strong>Getting Started with BowTie:</strong><br>​</p>
 <ul>
