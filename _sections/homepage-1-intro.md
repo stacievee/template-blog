@@ -29,4 +29,7 @@ cta:
 
 ---
 &nbsp;
+<div id="asird-badge-container"></div>
 
+
+&nbsp;
