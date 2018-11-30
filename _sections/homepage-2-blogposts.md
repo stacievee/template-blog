@@ -1,7 +1,7 @@
 ---
 location: "homepage"
 head:
-  title:
+  title: My Blog
   subtitle:
 style:
   id: 'posts'
@@ -26,5 +26,6 @@ cta:
   btnLink:
   subtext:
 ---
+<div id="asird-badge-container"></div>
 
 {% include widgets/listposts.html %}
