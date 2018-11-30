@@ -28,3 +28,5 @@ cta:
   subtext:
 ---
 &nbsp;
+
+<div id="asird-badge-container"></div>
