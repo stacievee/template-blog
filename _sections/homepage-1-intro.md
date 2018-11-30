@@ -26,7 +26,8 @@ cta:
   btnType: btn-transparent
   btnLink: '#posts'
   subtext:
+  <div id="asird-badge-container"></div>
+
 ---
 &nbsp;
 
-<div id="asird-badge-container"></div>
