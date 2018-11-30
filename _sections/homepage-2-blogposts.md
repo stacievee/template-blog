@@ -26,6 +26,6 @@ cta:
   btnLink:
   subtext:
 ---
-<div id="asird-badge-container"></div>
+<center><div id="asird-badge-container"></div></center>
 
 {% include widgets/listposts.html %}
