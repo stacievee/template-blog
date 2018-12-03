@@ -1,7 +1,7 @@
 ---
 location:
 head:
-  title:
+  title:   
   subtitle:
   img_path:
 style:
