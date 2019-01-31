@@ -8,7 +8,7 @@ style:
   class: ''
   media:
     img:
-      url_path: null
+      url_path: upload/image/png/1548977412312_url_path_ASIRD Mockup_2.png
       pattern: false
       parallax: true
       overlay: null
@@ -20,11 +20,13 @@ style:
   sectioncolor: ''
   tint_color: 'rgba(0,0,0,0.0)'
 cta:
-  headline: null
-  btnText: null
+  headline: headline
+  btnText: button text
   btnType: null
-  btnLink: null
-  subtext: null
+  btnLink: asird.org
+  subtext: sub text
 
 ---
+
 <p>&nbsp;this is some cool stuff</p>
+
