@@ -23,7 +23,7 @@ cta:
   headline: headline
   btnText: button text
   btnType: null
-  btnLink: www.asird.org
+  btnLink: 'http://www.asird.org'
   subtext: sub text
 
 ---
@@ -31,7 +31,9 @@ cta:
 
 
 
+
 <p>&nbsp;this is some cool stuff</p>
+
 
 
 
