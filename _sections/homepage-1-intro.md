@@ -22,7 +22,7 @@ style:
   sectioncolor: bgclear
   tint_color: 'rgba(0,0,0,0.0)'
 cta:
-  headline: null
+  headline: Yo! Click here!
   btnText: <i class="fa fa-caret-down"></i>Read On
   btnType: btn-transparent
   btnLink: '#posts'
@@ -31,6 +31,8 @@ cta:
 ---
 
 
+
 &nbsp;
+
 
 
