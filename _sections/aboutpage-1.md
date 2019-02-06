@@ -8,7 +8,7 @@ style:
   class: null
   media:
     img:
-      url_path: upload/image/jpeg/1548978605477_url_path_ASIRD Blue background.jpg
+      url_path: upload/image/png/1549475632579_url_path_ASIRD Mockup.png
       pattern: true
       parallax: false
       overlay: null
@@ -27,6 +27,7 @@ cta:
   subtext: null
 
 ---
+
 <p>Welcome to this really weird website.&nbsp;</p>
 <p>&nbsp;</p>
 <h1>HI!</h1>
@@ -35,3 +36,4 @@ cta:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2 style="text-align: center;"><span style="text-decoration: line-through;">Does this work?</span></h2>
+
