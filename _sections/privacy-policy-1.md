@@ -16,7 +16,7 @@ cta:
 
 ---
 
-Your privacy is important to us. We handle information provided by you,
+Sample text here. Your privacy is important to us. We handle information provided by you,
 our customer, in a confidential manner. We do not rent or sell any personal information to any other organization.
 
 Any personal information gathered will be used for order processing, to address inquiries, for product or status updates, for sweepstakes, newsletter, coupons, and/or other reoccurring correspondence (if opted-in by customer). At any time you, the customer, can opt out.
