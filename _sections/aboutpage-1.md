@@ -32,7 +32,7 @@ cta:
 <p>&nbsp;</p>
 <h1>HI!</h1>
 <p>&nbsp;</p>
-<p><strong>Hi there!</strong></p>
+<p><strong>Hi there!!</strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2 style="text-align: center;"><span style="text-decoration: line-through;">Does this work?</span></h2>
