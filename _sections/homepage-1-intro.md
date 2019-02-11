@@ -3,14 +3,13 @@ location: homepage
 head:
   title: Stacie's Blog
   subtitle: Has got it goin on
-  img_path: >-
-    upload/image/jpeg/1548973472885_img_path_Speaker_Dr_BradleyPurcell_Thumbnail.jpg
+  img_path: /upload/image/jpeg/1549909474820_img_path_UN_JEU_DECHECS_OFURO_2019_1.jpg
 style:
   id: hero
   class: jumbotron image-tagline bgclear fullscreen
   media:
     img:
-      url_path: upload/image/jpeg/1548973520734_url_path_ASIRD Blue background.jpg
+      url_path: /upload/image/jpeg/1549909481505_url_path_Ofuro cropped.jpg
       pattern: false
       parallax: true
       overlay: dark
@@ -29,10 +28,4 @@ cta:
   subtext: null
 
 ---
-
-
-
-&nbsp;
-
-
 
