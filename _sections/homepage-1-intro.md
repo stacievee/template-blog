@@ -1,9 +1,9 @@
 ---
 location: homepage
 head:
-  title: Stacie's Blog
-  subtitle: Has got it goin on
-  img_path: /upload/image/jpeg/1549909474820_img_path_UN_JEU_DECHECS_OFURO_2019_1.jpg
+  title: Houndstooth Blog
+  subtitle: Jekyll Sites Made Easy
+  img_path: /upload/image/png/1549994313303_img_path_Asset 1@4x.png
 style:
   id: hero
   class: jumbotron image-tagline bgclear fullscreen
@@ -28,4 +28,4 @@ cta:
   subtext: null
 
 ---
-
+<p>Update your static site without touching the code!</p>
