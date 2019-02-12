@@ -28,4 +28,11 @@ cta:
   subtext: null
 
 ---
-<p>Update your static site without touching the code!</p>
+<h1>Update your static site without touching the code!</h1>
+<p>To add a Component to a section (widgets/elements/actions), include the liquid tag to include it in the section content area using the markdown editor:</p>
+<p>{% include widgets/features.html %}</p>
+<p>&nbsp;</p>
+<h3>Bring your Jekyll project to life with Houndstooth.&nbsp;</h3>
+<p>&nbsp;</p>
+<p><img src="https://raw.githubusercontent.com/stacievee/template-blog/master/upload/HT-sample.jpg" alt="" width="400" height="240" /></p>
+<p>&nbsp;</p>
