@@ -3,7 +3,7 @@ location: homepage
 head:
   title: Houndstooth Blog
   subtitle: Jekyll Sites Made Easy
-  img_path: /upload/image/png/1549994313303_img_path_Asset 1@4x.png
+  img_path: /upload/image/jpeg/1549994510531_img_path_Social header.jpg
 style:
   id: hero
   class: jumbotron image-tagline bgclear fullscreen
