@@ -18,7 +18,7 @@ style:
       type: null
       posterurl_path: null
   sectioncolor: ''
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color: 'rgb(226, 0, 0)'
 cta:
   headline: headline
   btnText: button text
@@ -32,7 +32,9 @@ cta:
 
 
 
+
 <p>&nbsp;this is some cool stuff</p>
+
 
 
 
