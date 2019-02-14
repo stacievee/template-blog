@@ -27,4 +27,5 @@ cta:
   btnType:
   btnLink:
   subtext:
+  something_date:
 ---
