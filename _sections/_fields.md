@@ -28,4 +28,5 @@ cta:
   btnLink:
   subtext:
   something_date:
+  this_time:
 ---
